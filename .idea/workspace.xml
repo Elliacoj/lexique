@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f358faec-1b2a-451d-ad17-5cd1ed75423e" name="Default Changelist" comment="Modif">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lexique.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balisesStructu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pseudoClasseEtElem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selecteurAttribut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniteMesure.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copie.html" beforeDir="false" afterPath="$PROJECT_DIR$/copie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleCssA.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleCssA.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleCssP.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleCssP.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k3jVmgnrl3Y1zHG3RaX2hyipDw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f358faec-1b2a-451d-ad17-5cd1ed75423e" name="Default Changelist" comment="" />
+      <created>1604936194689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604936194689</updated>
+      <workItem from="1604936195763" duration="49000" />
+      <workItem from="1604936730008" duration="1087000" />
+      <workItem from="1604995671033" duration="614000" />
+      <workItem from="1605016493284" duration="1323000" />
+      <workItem from="1605021395524" duration="831000" />
+      <workItem from="1605172989298" duration="2000" />
+      <workItem from="1605183477939" duration="253000" />
+      <workItem from="1605184562152" duration="388000" />
+      <workItem from="1605448229050" duration="2381000" />
+    </task>
+    <task id="LOCAL-00001" summary="Modif">
+      <created>1604936746597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604936746597</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modif">
+      <created>1604937022600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604937022600</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modif">
+      <created>1604937334984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604937334984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="260" key="Vcs.Push.Dialog.v2" timestamp="1604937338151">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="515" y="260" key="Vcs.Push.Dialog.v2/1920.98.1286.768/0.0.1846.1080@0.0.1846.1080" timestamp="1604937338151" />
+  </component>
+</project>

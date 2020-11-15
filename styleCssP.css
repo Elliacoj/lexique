@@ -2,22 +2,27 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#titrep, #soustexte, a, h2, #accueil {
+    text-align: center;
+}
+
+#soustexte, span, ul {
+    font-style: italic;
+}
+
 #bordure {
     position: relative;
     border: 10px solid #2f2e2e;
 }
 
 #titrep {
-    text-align: center;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: bold;
     text-decoration-line: underline;
     margin-top: 5%;
 }
 
 #soustexte {
-    text-align: center;
-    font-style: italic;
     margin-top: 3%;
 }
 
@@ -34,7 +39,7 @@ tbody th {
     width: 20%;
     text-align: left;
     padding-left: 2%;
-    line-height: 30px;
+    line-height: 3rem;
 }
 
 .défi, td {
@@ -43,7 +48,7 @@ tbody th {
 
 thead th {
     border: 1px solid black;
-    line-height: 30px;
+    line-height: 3rem;
 }
 
 td {
@@ -53,31 +58,26 @@ td {
 a {
     text-decoration-line: none;
     color: black;
-    text-align: center;
 }
 
 #accueil {
-    text-align: center;
     margin-bottom: 3%;
 }
 
 span {
-    font-style: italic;
     font-weight: bold;
 }
 
 h2 {
-    text-align: center;
     margin-top: 7%;
-    font-size: 30px;
+    font-size: 3rem;
     text-decoration-line: underline;
 }
 
 ul {
     margin-top: 5%;
     margin-left: 10%;
-    line-height: 30px;
-    font-style: italic;
+    line-height: 3rem;
 }
 
 #gauche {

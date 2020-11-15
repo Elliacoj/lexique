@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Les selecteurs d'attribut</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleCssP.css">
+</head>
+<body>
+    <div id="bordure">
+        <div id="titrep">
+            <h1></h1>
+        </div>
+        <div id="soustexte">
+            <p>Voici une liste des balises avec une courte définition</p>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Attributs</th>
+                    <th>Définitions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>[attr]</th>
+                    <td>Permet de cibler un élément possédant l’attribut attr.</td>
+                </tr>
+                <tr>
+                    <th>[attr=”valeur”]</th>
+                    <td>Permet de cibler un élément possédant l’attribut attr , avec une valeur correspondant EXACTEMENT à “valeur”!</td>
+                </tr>
+                <tr>
+                    <th>[attr~=”val”]</th>
+                    <td>
+                        Permet de cibler un élément possédant l’attribut attr , avec une valeur contenant STRICTEMENT ‘val’ ou ‘val’ séparé
+                        d’un autre motpar un espace!
+                    </td>
+                </tr>
+                <tr>
+                    <th>[attr*=”value”]</th>
+                    <td>
+                        Permet de cibler un élément possédant l’attribut attr , avec une valeur contenant au moins ‘val’, peu importe sa
+                        position et peu importe s’il est contenu dans un mot!
+                    </td>
+                </tr>
+                <tr>
+                    <th>[attr|=”val”]</th>
+                    <td>
+                        Sélectionne tous les éléments ayant l’attribut attr et une valeur qui commence par “val” ET dont la suite de
+                        la valeur est séparée par un tiret ( hyphen ).
+                    </td>
+                </tr>
+                <tr>
+                    <th>[attr^=”val”]</th>
+                    <td>Sélectionne tous les éléments ayant l’attribut attr et une valeur qui commence exactement par “val”</td>
+                </tr>
+                <tr>
+                    <th>[attr$=”val”]</th>
+                    <td>Sélectionne tous les éléments ayant l’attribut attr et une valeur qui se termine exactement par “val”</td>
+                </tr>
+            </tbody>
+        </table>
+        <div id="accueil">
+            <a href="index.html">Accueil</a>
+        </div>
+    </div>
+</body>
+</html>
